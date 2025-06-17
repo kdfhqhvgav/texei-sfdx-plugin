@@ -1,0 +1,10 @@
+{
+  "name": "texei-sfdx-plugin",
+  "version": "0.1.0",
+  "description": "Texe\u00ef's plugin for sfdx",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
