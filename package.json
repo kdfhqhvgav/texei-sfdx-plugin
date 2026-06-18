@@ -1,6 +1,6 @@
 {
   "name": "texei-sfdx-plugin",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Texe\u00ef's plugin for sfdx",
   "main": "src/index.ts",
   "scripts": {
